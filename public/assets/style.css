@@ -1,0 +1,31 @@
+header { background: #000; color: #fff; padding: 10px 0; }
+header .nav-link:focus, .nav-link:hover { color: #b9f001; }
+.profile_img a { display: inline-block; bottom: -70px; position: relative; right: 60px; }
+ul.dropdown-menu { border: none; border-radius: 0; background: #000; color: #fff; padding: 0; }
+ul.dropdown-menu li a { color: #fff; border-bottom: 1px solid #333; font-size: 15px; padding: 8px 10px 8px; }
+ul.dropdown-menu li a:hover { color: #bff30a; background: #000; }
+ul.navbar-nav li a { margin: 0 10px 0px 0; }
+.logo img { height: 60px; }
+a#navbarDropdownMenuLink { }
+.nav-link { color: #fff; }
+.dropdown { text-align: right; }
+button#dropdownMenuButton1 { background: linear-gradient(to right, #ace100, #c8fc0e); color: #000; font-weight: 500; border-radius: 100px; border: none; padding: 8px 25px; }
+.profile_img img { height: 200px; }
+.profile_img { position: relative; }
+.profile_img a i { border: 1px solid #000; padding: 8px; border-radius: 100px; color: #000; background: #fff; right: 130px; }
+.edit_bg h4 { font-size: 18px; margin: 10px 0 20px; }
+.form-check-input { background: #b9f001; border-color: #b9f001; border-radius: 0 !important; border: 2px solid #000; width: 20px; height: 20px; }
+.edit_bg { padding: 60px 0; }
+.edit_form .form-control { background: #f2f2f2; border: none; border-bottom: 3px solid #b9f001; border-radius: 0; box-shadow: none; }
+.edit_list button { background: linear-gradient(to right, #ace100, #c8fc0e); padding: 8px 30px; border-radius: 50px; border: none; }
+.edit_form h3 { margin: 0 0 30px; font-weight: 600; font-size: 32px; }
+.edit_form label { font-weight: 600; margin: 0 0 5px; }
+.edit_form label span { color: red; }
+.edit_list h5 { font-size: 17px; }
+.edit_list h5 i { font-weight: 400; }
+.edit_list .form-check .form-check-input {border: 2px solid #000;width: 20px;height: 20px;box-shadow: 2px 2px 0 0 #000;margin-right: 10px;display: inline-block;border-radius: 0;/* width: 100%; */}
+.edit_list  label.form-check-label {font-weight: 400;display: inherit;}
+.form-check-input:checked { background-color: #bdf108; border-color: #93bd09; }
+.form-check-input:checked[type=checkbox], .form-check-input:checked[type=radio] { background-blend-mode: exclusion; }
+.form-check-input:focus { box-shadow: none; }
+select.form-control { appearance: auto; }
